@@ -1,1 +1,2 @@
-# Week-5---Lab-submission
+# techin509b-tictactoe
+Starter code for the Tic Tac Toe assignments
